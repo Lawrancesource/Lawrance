@@ -269,9 +269,9 @@ print("\27[34m"..[[
 >> Features fast and powerful
 
 
->> CH > @aaaaw
->> CH > @xxxxn 
->> DEVELOPER > @XXKXX
+>> CH > @Source_Lawrance
+>> CH > @Source_Lawrance 
+>> DEVELOPER > @aaajaaj
 ]].."\27[m")
 sudos = dofile("sudo.lua")
 if Sudo then
@@ -787,9 +787,9 @@ local function connect_tcp(socket, parameters)
 >> Features fast and powerful
 
                                                                                                                                          
->> CH > @aaaaw
->> CH > @xxxxn 
->> DEVELOPER > @XXKXX
+>> CH > @Source_Lawrance
+>> CH > @Source_Lawrance 
+>> DEVELOPER > @aaajaaj
 ]].."\27[m")
 	os.exit()
     --redis.error('could not connect to '..host..':'..port..' ['..err..']')
